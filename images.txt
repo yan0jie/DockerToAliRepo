@@ -15,6 +15,6 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-ghcr.io/flink-dashboard/flink-web-ui:latest
+ghcr.io/apache/flink-kubernetes-operator:099cdbd
 
 
