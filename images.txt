@@ -15,6 +15,6 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-rancher/shell:v0.2.1
+rancher/rancher-webhook:v0.5.0
 
 
