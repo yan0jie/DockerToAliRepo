@@ -15,6 +15,6 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-flink:1.20-scala_2.12-java8
+docker.io/rancher/rancher:v2.9.2
 
 
