@@ -15,6 +15,8 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-mysql:8
-redis:6.2
-
+arm64v8/mysql:8
+arm64v8/redis:7
+victoriametrics/victoria-metrics:v1.93.12
+flashcatcloud/nightingale:latest-arm64
+flashcatcloud/categraf:latest-arm64
