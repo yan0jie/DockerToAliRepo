@@ -15,6 +15,4 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-gcr.io/distroless/base-debian12:latest
-docker.io/library/node:22-slim
-docker.io/mambaorg/micromamba:1.5.10
+docker.io/library/python:3.10.3-slim-bullseye
