@@ -15,4 +15,5 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-insightface-rest:v0.9.5.0
+nvcr.io/nvidia/tensorrt:23.05-py3
+python:3.8-slim
