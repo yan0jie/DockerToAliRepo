@@ -15,8 +15,4 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-exadel/compreface-postgres-db:1.2.0
-exadel/compreface-admin:1.2.0
-exadel/compreface-api:1.2.0
-exadel/compreface-fe:1.2.0
-exadel/compreface-core:1.2.0
+insightface-rest-cpu:v0.8.4.0
