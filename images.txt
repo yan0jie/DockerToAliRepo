@@ -15,4 +15,4 @@
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-insightface-rest-cpu:v0.8.4.0
+insightface-rest:v0.8.4.0
