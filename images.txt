@@ -14,4 +14,4 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 #docker.n8n.io/n8nio/n8n:latest
-flink:1.20.0
+flink:1.20.5
